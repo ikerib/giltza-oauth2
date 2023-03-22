@@ -9,6 +9,7 @@
         "client",
         "authorization"
     ],
+    "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
