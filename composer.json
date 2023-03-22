@@ -1,7 +1,14 @@
 {
     "name": "ikerib/giltza-oauth2",
     "description": "Izenperen Giltza oauth2 zerbitzua erabiltzeko oauth2 bezeroa",
-    "minimum-stability": "dev",
+    "keywords": [
+        "giltza",
+        "izenpe",
+        "oauth",
+        "oauth2",
+        "client",
+        "authorization"
+    ],
     "license": "MIT",
     "authors": [
         {
