@@ -1,0 +1,24 @@
+{
+    "name": "ikerib/giltza-oauth2",
+    "description": "Izenperen Giltza oauth2 zerbitzua erabiltzeko oauth2 bezeroa",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Iker Ibarguren",
+            "email": "ikerib@gmail.com",
+            "homepage": "https://github.com/ikerib"
+        }
+    ],
+    "require": {
+        "league/oauth2-client": "^2.0"
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Giltza\\OAuth2\\Client\\Provider\\": "src/"
+        }
+    }
+}
